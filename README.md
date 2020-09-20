@@ -1,4 +1,4 @@
-#**Aqui estão meus estudos de JavaScript**
+# **Aqui estão meus estudos de JavaScript**
 
 Tudo começou aqui... onde me dediquei a entender os conceitos e principios dessa linguagem incrível. 
 
